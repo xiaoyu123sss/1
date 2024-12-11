@@ -1,0 +1,8 @@
+# Challenge Signature  
+
+Challenge Code: supy16HDbdHo2hPY2Xcc30AnlqihfVQh  
+
+Signature: U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgBX2vRPviu5nqurQxFOTNjVnnly
+XrhoDSCKxXc2Vb6PMAAAAHbHNwb3NlZAAAAAAAAAAGc2hhNTEyAAAAUwAAAAtzc2gtZWQy
+NTUxOQAAAEBOZ5j/UJoAdRy4lxua6Ioa9LtSPrf7ncReiWvmGEgiT6koog8Y5OMv+kB4+Y
+wneGnfA8whsseIYeEv40ChrB0C
